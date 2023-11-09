@@ -1,3 +1,6 @@
+"""Main module. Runs the app."""
+
+
 from app import start_app
 
 
